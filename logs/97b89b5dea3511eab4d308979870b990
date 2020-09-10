@@ -1,0 +1,2224 @@
+2020-08-30 23:17:24,087 - config - login - INFO - Setting up screen for GUI
+
+2020-08-30 23:17:26,133 - config - newreq - INFO - Routed to new request function
+
+2020-08-30 23:17:29,060 - config - emailadd - INFO - Email add route called 
+
+2020-08-30 23:17:29,061 - config - connew - INFO - Routed to confirm function
+
+2020-08-30 23:17:29,061 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-30 23:17:29,062 - config - connew - INFO - Routed to menu of available services
+
+2020-08-30 23:17:29,108 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-30 23:17:29,108 - config - emailadd - INFO - Email added successfully 
+
+2020-08-30 23:18:33,726 - config - run - INFO - App starts running
+
+2020-08-30 23:18:33,734 - config - run - INFO - New id not required: True
+
+2020-08-30 23:18:33,741 - config - run - INFO - Id found
+
+2020-08-30 23:18:33,743 - config - run - INFO - Starting up GUI 
+
+2020-08-30 23:18:33,743 - config - run - INFO - Getting user information 
+
+2020-08-30 23:18:33,767 - config - run - INFO - Get request successfull
+
+2020-08-30 23:18:33,767 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-30 23:18:33,785 - config - run - INFO - Request returneddone
+
+2020-08-30 23:18:35,360 - config - login - INFO - Setting up screen for GUI
+
+2020-08-30 23:18:37,222 - config - newreq - INFO - Routed to new request function
+
+2020-08-30 23:18:40,780 - config - emailadd - INFO - Email add route called 
+
+2020-08-30 23:18:40,780 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-30 23:18:40,782 - config - connew - INFO - Routed to confirm function
+
+2020-08-30 23:18:40,782 - config - connew - INFO - Routed to menu of available services
+
+2020-08-30 23:18:40,818 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-30 23:18:40,818 - config - emailadd - INFO - Email added successfully 
+
+2020-08-30 23:21:54,046 - config - run - INFO - App starts running
+
+2020-08-30 23:22:01,857 - config - run - INFO - App starts running
+
+2020-08-30 23:22:01,857 - config - run - INFO - App starts running
+
+2020-08-30 23:23:28,062 - config - run - INFO - App starts running
+
+2020-08-30 23:24:53,011 - config - run - INFO - App starts running
+
+2020-08-30 23:24:53,011 - config - run - INFO - App starts running
+
+2020-08-30 23:27:50,625 - config - run - INFO - App starts running
+
+2020-08-30 23:27:50,625 - config - run - INFO - App starts running
+
+2020-08-30 23:27:50,625 - config - run - INFO - App starts running
+
+2020-08-30 23:28:25,394 - config - run - INFO - App starts running
+
+2020-08-30 23:28:25,394 - config - run - INFO - App starts running
+
+2020-08-30 23:28:25,394 - config - run - INFO - App starts running
+
+2020-08-30 23:28:25,394 - config - run - INFO - App starts running
+
+2020-08-30 23:33:49,684 - config - run - INFO - App starts running
+
+2020-08-30 23:33:49,684 - config - run - INFO - App starts running
+
+2020-08-30 23:38:20,511 - config - run - INFO - New id not required: True
+
+2020-08-30 23:38:20,511 - config - run - INFO - New id not required: True
+
+2020-08-30 23:38:40,969 - config - run - INFO - App starts running
+
+2020-08-30 23:38:40,969 - config - run - INFO - App starts running
+
+2020-08-30 23:38:40,969 - config - run - INFO - App starts running
+
+2020-08-30 23:39:18,617 - config - run - INFO - App starts running
+
+2020-08-30 23:39:18,617 - config - run - INFO - App starts running
+
+2020-08-30 23:39:18,617 - config - run - INFO - App starts running
+
+2020-08-30 23:39:18,617 - config - run - INFO - App starts running
+
+2020-08-30 23:39:18,623 - config - run - INFO - New id not required: True
+
+2020-08-30 23:39:18,623 - config - run - INFO - New id not required: True
+
+2020-08-30 23:39:18,623 - config - run - INFO - New id not required: True
+
+2020-08-30 23:39:18,623 - config - run - INFO - New id not required: True
+
+2020-08-30 23:39:18,689 - config - run - INFO - Id found
+
+2020-08-30 23:39:18,689 - config - run - INFO - Id found
+
+2020-08-30 23:39:18,689 - config - run - INFO - Id found
+
+2020-08-30 23:39:18,689 - config - run - INFO - Id found
+
+2020-08-30 23:39:18,692 - config - run - INFO - Starting up GUI 
+
+2020-08-30 23:39:18,692 - config - run - INFO - Starting up GUI 
+
+2020-08-30 23:39:18,692 - config - run - INFO - Starting up GUI 
+
+2020-08-30 23:39:18,692 - config - run - INFO - Starting up GUI 
+
+2020-08-30 23:39:18,692 - config - run - INFO - Getting user information 
+
+2020-08-30 23:39:18,692 - config - run - INFO - Getting user information 
+
+2020-08-30 23:39:18,692 - config - run - INFO - Getting user information 
+
+2020-08-30 23:39:18,692 - config - run - INFO - Getting user information 
+
+2020-08-30 23:39:18,733 - config - run - INFO - Get request successfull
+
+2020-08-30 23:39:18,733 - config - run - INFO - Get request successfull
+
+2020-08-30 23:39:18,733 - config - run - INFO - Get request successfull
+
+2020-08-30 23:39:18,733 - config - run - INFO - Get request successfull
+
+2020-08-30 23:39:18,733 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-30 23:39:18,733 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-30 23:39:18,733 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-30 23:39:18,733 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-30 23:39:18,774 - config - run - INFO - Request returneddone
+
+2020-08-30 23:39:18,774 - config - run - INFO - Request returneddone
+
+2020-08-30 23:39:18,774 - config - run - INFO - Request returneddone
+
+2020-08-30 23:39:18,774 - config - run - INFO - Request returneddone
+
+2020-08-30 23:39:21,148 - config - login - INFO - Setting up screen for GUI
+
+2020-08-30 23:39:21,148 - config - login - INFO - Setting up screen for GUI
+
+2020-08-30 23:39:21,148 - config - login - INFO - Setting up screen for GUI
+
+2020-08-30 23:39:21,148 - config - login - INFO - Setting up screen for GUI
+
+2020-08-30 23:39:24,428 - config - newreq - INFO - Routed to new request function
+
+2020-08-30 23:39:24,428 - config - newreq - INFO - Routed to new request function
+
+2020-08-30 23:39:24,428 - config - newreq - INFO - Routed to new request function
+
+2020-08-30 23:39:24,428 - config - newreq - INFO - Routed to new request function
+
+2020-08-30 23:51:05,724 - config - run - INFO - App starts running
+
+2020-08-30 23:51:05,734 - config - run - INFO - New id not required: True
+
+2020-08-30 23:51:05,769 - config - run - INFO - Id found
+
+2020-08-30 23:51:05,771 - config - run - INFO - Starting up GUI 
+
+2020-08-30 23:51:05,771 - config - run - INFO - Getting user information 
+
+2020-08-30 23:51:05,796 - config - run - INFO - Get request successfull
+
+2020-08-30 23:51:05,796 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-30 23:51:05,827 - config - run - INFO - Request returneddone
+
+2020-08-30 23:51:07,341 - config - login - INFO - Setting up screen for GUI
+
+2020-08-30 23:51:09,349 - config - newreq - INFO - Routed to new request function
+
+2020-08-30 23:51:13,652 - config - emailadd - INFO - Email add route called 
+
+2020-08-30 23:51:13,653 - config - connew - INFO - Routed to confirm function
+
+2020-08-30 23:51:13,653 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-30 23:51:13,654 - config - connew - INFO - Routed to menu of available services
+
+2020-08-30 23:51:13,668 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-30 23:51:13,668 - config - emailadd - INFO - Email added successfully 
+
+2020-08-30 23:51:15,126 - config - connew - INFO - Routed to confirm function
+
+2020-08-30 23:51:15,126 - config - connew - INFO - Routed to software install page
+
+2020-08-30 23:51:16,499 - config - connew - INFO - Routed to confirm function
+
+2020-08-30 23:51:16,499 - config - connew - INFO - Routed to Java installation page
+
+2020-08-30 23:51:17,661 - config - connew - INFO - Routed to confirm function
+
+2020-08-30 23:51:17,661 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-30 23:51:23,381 - config - connew - INFO - Request returned is 240
+
+2020-08-30 23:51:23,381 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-30 23:51:29,973 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 00:10:42,489 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:10:42,489 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:10:42,489 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:10:42,489 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:10:42,489 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:10:44,668 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:10:44,668 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:10:44,668 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:10:44,668 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:10:44,668 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:10:49,829 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:10:49,829 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:10:49,829 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:10:49,829 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:10:49,829 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:10:53,356 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:10:53,356 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:10:53,356 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:10:53,356 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:10:53,356 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:10:59,275 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:10:59,275 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:10:59,275 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:10:59,275 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:10:59,275 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:10:59,294 - config - checkForWindowExistence - INFO - Searching for Mail Setup - Outlook via infinite loop
+
+2020-08-31 00:10:59,294 - config - checkForWindowExistence - INFO - Searching for Mail Setup - Outlook via infinite loop
+
+2020-08-31 00:10:59,294 - config - checkForWindowExistence - INFO - Searching for Mail Setup - Outlook via infinite loop
+
+2020-08-31 00:10:59,294 - config - checkForWindowExistence - INFO - Searching for Mail Setup - Outlook via infinite loop
+
+2020-08-31 00:10:59,294 - config - checkForWindowExistence - INFO - Searching for Mail Setup - Outlook via infinite loop
+
+2020-08-31 00:10:59,583 - config - checkForWindowExistence - INFO - Searching for Mail Setup - AFS via infinite loop
+
+2020-08-31 00:10:59,583 - config - checkForWindowExistence - INFO - Searching for Mail Setup - AFS via infinite loop
+
+2020-08-31 00:10:59,583 - config - checkForWindowExistence - INFO - Searching for Mail Setup - AFS via infinite loop
+
+2020-08-31 00:10:59,583 - config - checkForWindowExistence - INFO - Searching for Mail Setup - AFS via infinite loop
+
+2020-08-31 00:10:59,583 - config - checkForWindowExistence - INFO - Searching for Mail Setup - AFS via infinite loop
+
+2020-08-31 00:12:40,650 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:12:40,650 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:12:40,650 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:12:40,650 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:12:40,650 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:12:40,650 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:12:42,797 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:12:42,797 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:12:42,797 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:12:42,797 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:12:42,797 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:12:42,797 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:12:47,972 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:12:47,972 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:12:47,972 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:12:47,972 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:12:47,972 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:12:47,972 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:12:51,499 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:12:51,499 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:12:51,499 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:12:51,499 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:12:51,499 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:12:51,499 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:12:57,425 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:12:57,425 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:12:57,425 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:12:57,425 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:12:57,425 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:12:57,425 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:12:57,468 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:12:57,468 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:12:57,468 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:12:57,468 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:12:57,468 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:12:57,468 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:12:59,574 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:12:59,574 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:12:59,574 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:12:59,574 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:12:59,574 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:12:59,574 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:12:59,598 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:12:59,598 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:12:59,598 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:12:59,598 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:12:59,598 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:12:59,598 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:12:59,737 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:12:59,737 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:12:59,737 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:12:59,737 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:12:59,737 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:12:59,737 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:13:01,112 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:13:01,112 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:13:01,112 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:13:01,112 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:13:01,112 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:13:01,112 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:13:01,467 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:13:01,467 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:13:01,467 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:13:01,467 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:13:01,467 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:13:01,467 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:13:01,707 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:13:01,707 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:13:01,707 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:13:01,707 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:13:01,707 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:13:01,707 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:13:05,040 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:13:05,040 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:13:05,040 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:13:05,040 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:13:05,040 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:13:05,040 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:13:05,114 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:13:05,114 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:13:05,114 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:13:05,114 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:13:05,114 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:13:05,114 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:13:47,748 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:13:47,748 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:13:47,748 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:13:47,748 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:13:47,748 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:13:47,748 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:13:47,748 - config - mailConfig - INFO - opening control panel for email configuration 
+
+2020-08-31 00:13:49,881 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:13:49,881 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:13:49,881 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:13:49,881 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:13:49,881 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:13:49,881 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:13:49,881 - config - mailConfig - INFO - Searching for All Control Panel Items window
+
+2020-08-31 00:13:55,021 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:13:55,021 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:13:55,021 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:13:55,021 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:13:55,021 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:13:55,021 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:13:55,021 - config - mailConfig - INFO - Searching for Mail (Microsoft Outlook 2016) icon
+
+2020-08-31 00:13:58,573 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:13:58,573 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:13:58,573 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:13:58,573 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:13:58,573 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:13:58,573 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:13:58,573 - config - mailConfig - INFO - Searching for Mail icon
+
+2020-08-31 00:14:04,555 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:14:04,555 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:14:04,555 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:14:04,555 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:14:04,555 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:14:04,555 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:14:04,555 - config - mailConfig - INFO - Searching for Mail Setup - Outlook window
+
+2020-08-31 00:14:04,572 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:14:04,572 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:14:04,572 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:14:04,572 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:14:04,572 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:14:04,572 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:14:04,572 - config - mailConfig - INFO - Searching for E-mail Accounts button
+
+2020-08-31 00:14:06,680 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:14:06,680 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:14:06,680 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:14:06,680 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:14:06,680 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:14:06,680 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:14:06,680 - config - mailConfig - INFO - Searching for Account Settings window
+
+2020-08-31 00:14:06,697 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:14:06,697 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:14:06,697 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:14:06,697 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:14:06,697 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:14:06,697 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:14:06,697 - config - mailConfig - INFO - Clicking on Email and New button in Account Settings window
+
+2020-08-31 00:14:06,843 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:14:06,843 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:14:06,843 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:14:06,843 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:14:06,843 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:14:06,843 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:14:06,843 - config - mailConfig - INFO - Searching for Add Account window for clicking on Manual Setup radio button
+
+2020-08-31 00:14:08,063 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:14:08,063 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:14:08,063 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:14:08,063 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:14:08,063 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:14:08,063 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:14:08,063 - config - checkForWindowExistence - INFO - Searching for Add Account via infinite loop
+
+2020-08-31 00:14:08,422 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:14:08,422 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:14:08,422 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:14:08,422 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:14:08,422 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:14:08,422 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:14:08,422 - config - mailConfig - INFO - Searching for Add Account window for clicking on POP or IMAP radio button
+
+2020-08-31 00:14:08,675 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:14:08,675 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:14:08,675 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:14:08,675 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:14:08,675 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:14:08,675 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:14:08,675 - config - mailConfig - INFO - Searching for Add Account window for entering user details recevied via chatbot
+
+2020-08-31 00:14:11,917 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:14:11,917 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:14:11,917 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:14:11,917 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:14:11,917 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:14:11,917 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:14:11,917 - config - mailConfig - INFO - Searching for Internet Email Settings for entering Incoming and Outgoing port details
+
+2020-08-31 00:14:11,973 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:14:11,973 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:14:11,973 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:14:11,973 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:14:11,973 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:14:11,973 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:14:11,973 - config - checkForWindowExistence - INFO - Searching for Internet Email Settings via infinite loop
+
+2020-08-31 00:18:46,488 - config - run - INFO - App starts running
+
+2020-08-31 00:18:46,488 - config - run - INFO - App starts running
+
+2020-08-31 00:18:46,488 - config - run - INFO - App starts running
+
+2020-08-31 00:18:46,488 - config - run - INFO - App starts running
+
+2020-08-31 00:18:46,488 - config - run - INFO - App starts running
+
+2020-08-31 00:18:46,488 - config - run - INFO - App starts running
+
+2020-08-31 00:18:46,488 - config - run - INFO - App starts running
+
+2020-08-31 00:18:46,488 - config - run - INFO - App starts running
+
+2020-08-31 00:18:46,494 - config - run - INFO - New id not required: True
+
+2020-08-31 00:18:46,494 - config - run - INFO - New id not required: True
+
+2020-08-31 00:18:46,494 - config - run - INFO - New id not required: True
+
+2020-08-31 00:18:46,494 - config - run - INFO - New id not required: True
+
+2020-08-31 00:18:46,494 - config - run - INFO - New id not required: True
+
+2020-08-31 00:18:46,494 - config - run - INFO - New id not required: True
+
+2020-08-31 00:18:46,494 - config - run - INFO - New id not required: True
+
+2020-08-31 00:18:46,494 - config - run - INFO - New id not required: True
+
+2020-08-31 00:18:46,505 - config - run - INFO - Id found
+
+2020-08-31 00:18:46,505 - config - run - INFO - Id found
+
+2020-08-31 00:18:46,505 - config - run - INFO - Id found
+
+2020-08-31 00:18:46,505 - config - run - INFO - Id found
+
+2020-08-31 00:18:46,505 - config - run - INFO - Id found
+
+2020-08-31 00:18:46,505 - config - run - INFO - Id found
+
+2020-08-31 00:18:46,505 - config - run - INFO - Id found
+
+2020-08-31 00:18:46,505 - config - run - INFO - Id found
+
+2020-08-31 00:18:46,507 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:18:46,507 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:18:46,507 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:18:46,507 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:18:46,507 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:18:46,507 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:18:46,507 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:18:46,507 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:18:46,508 - config - run - INFO - Getting user information 
+
+2020-08-31 00:18:46,508 - config - run - INFO - Getting user information 
+
+2020-08-31 00:18:46,508 - config - run - INFO - Getting user information 
+
+2020-08-31 00:18:46,508 - config - run - INFO - Getting user information 
+
+2020-08-31 00:18:46,508 - config - run - INFO - Getting user information 
+
+2020-08-31 00:18:46,508 - config - run - INFO - Getting user information 
+
+2020-08-31 00:18:46,508 - config - run - INFO - Getting user information 
+
+2020-08-31 00:18:46,508 - config - run - INFO - Getting user information 
+
+2020-08-31 00:18:46,534 - config - run - INFO - Get request successfull
+
+2020-08-31 00:18:46,534 - config - run - INFO - Get request successfull
+
+2020-08-31 00:18:46,534 - config - run - INFO - Get request successfull
+
+2020-08-31 00:18:46,534 - config - run - INFO - Get request successfull
+
+2020-08-31 00:18:46,534 - config - run - INFO - Get request successfull
+
+2020-08-31 00:18:46,534 - config - run - INFO - Get request successfull
+
+2020-08-31 00:18:46,534 - config - run - INFO - Get request successfull
+
+2020-08-31 00:18:46,534 - config - run - INFO - Get request successfull
+
+2020-08-31 00:18:46,534 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:18:46,534 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:18:46,534 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:18:46,534 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:18:46,534 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:18:46,534 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:18:46,534 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:18:46,534 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:18:46,549 - config - run - INFO - Request returneddone
+
+2020-08-31 00:18:46,549 - config - run - INFO - Request returneddone
+
+2020-08-31 00:18:46,549 - config - run - INFO - Request returneddone
+
+2020-08-31 00:18:46,549 - config - run - INFO - Request returneddone
+
+2020-08-31 00:18:46,549 - config - run - INFO - Request returneddone
+
+2020-08-31 00:18:46,549 - config - run - INFO - Request returneddone
+
+2020-08-31 00:18:46,549 - config - run - INFO - Request returneddone
+
+2020-08-31 00:18:46,549 - config - run - INFO - Request returneddone
+
+2020-08-31 00:18:48,217 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:18:48,217 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:18:48,217 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:18:48,217 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:18:48,217 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:18:48,217 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:18:48,217 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:18:48,217 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:21:04,142 - config - run - INFO - App starts running
+
+2020-08-31 00:21:04,142 - config - run - INFO - App starts running
+
+2020-08-31 00:21:04,142 - config - run - INFO - App starts running
+
+2020-08-31 00:21:04,164 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:04,164 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:04,164 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:04,281 - config - run - INFO - Id found
+
+2020-08-31 00:21:04,281 - config - run - INFO - Id found
+
+2020-08-31 00:21:04,281 - config - run - INFO - Id found
+
+2020-08-31 00:21:04,283 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:04,283 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:04,283 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:04,284 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:04,284 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:04,284 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:31,225 - config - run - INFO - App starts running
+
+2020-08-31 00:21:31,225 - config - run - INFO - App starts running
+
+2020-08-31 00:21:31,225 - config - run - INFO - App starts running
+
+2020-08-31 00:21:31,225 - config - run - INFO - App starts running
+
+2020-08-31 00:21:31,247 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:31,247 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:31,247 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:31,247 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:31,283 - config - run - INFO - Id found
+
+2020-08-31 00:21:31,283 - config - run - INFO - Id found
+
+2020-08-31 00:21:31,283 - config - run - INFO - Id found
+
+2020-08-31 00:21:31,283 - config - run - INFO - Id found
+
+2020-08-31 00:21:31,285 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:31,285 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:31,285 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:31,285 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:31,285 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:31,285 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:31,285 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:31,285 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:31,326 - config - run - INFO - Get request successfull
+
+2020-08-31 00:21:31,326 - config - run - INFO - Get request successfull
+
+2020-08-31 00:21:31,326 - config - run - INFO - Get request successfull
+
+2020-08-31 00:21:31,326 - config - run - INFO - Get request successfull
+
+2020-08-31 00:21:31,327 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:21:31,327 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:21:31,327 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:21:31,327 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:21:59,036 - config - run - INFO - App starts running
+
+2020-08-31 00:21:59,036 - config - run - INFO - App starts running
+
+2020-08-31 00:21:59,036 - config - run - INFO - App starts running
+
+2020-08-31 00:21:59,036 - config - run - INFO - App starts running
+
+2020-08-31 00:21:59,036 - config - run - INFO - App starts running
+
+2020-08-31 00:21:59,095 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:59,095 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:59,095 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:59,095 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:59,095 - config - run - INFO - New id not required: True
+
+2020-08-31 00:21:59,126 - config - run - INFO - Id found
+
+2020-08-31 00:21:59,126 - config - run - INFO - Id found
+
+2020-08-31 00:21:59,126 - config - run - INFO - Id found
+
+2020-08-31 00:21:59,126 - config - run - INFO - Id found
+
+2020-08-31 00:21:59,126 - config - run - INFO - Id found
+
+2020-08-31 00:21:59,127 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:59,127 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:59,127 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:59,127 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:59,127 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:21:59,127 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:59,127 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:59,127 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:59,127 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:59,127 - config - run - INFO - Getting user information 
+
+2020-08-31 00:21:59,168 - config - run - INFO - Get request successfull
+
+2020-08-31 00:21:59,168 - config - run - INFO - Get request successfull
+
+2020-08-31 00:21:59,168 - config - run - INFO - Get request successfull
+
+2020-08-31 00:21:59,168 - config - run - INFO - Get request successfull
+
+2020-08-31 00:21:59,168 - config - run - INFO - Get request successfull
+
+2020-08-31 00:21:59,168 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:21:59,168 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:21:59,168 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:21:59,168 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:21:59,168 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:21:59,210 - config - run - INFO - Request returneddone
+
+2020-08-31 00:21:59,210 - config - run - INFO - Request returneddone
+
+2020-08-31 00:21:59,210 - config - run - INFO - Request returneddone
+
+2020-08-31 00:21:59,210 - config - run - INFO - Request returneddone
+
+2020-08-31 00:21:59,210 - config - run - INFO - Request returneddone
+
+2020-08-31 00:22:00,927 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:22:00,927 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:22:00,927 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:22:00,927 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:22:00,927 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:22:12,521 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 00:22:12,521 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 00:22:12,521 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 00:22:12,521 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 00:22:12,521 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 00:22:16,290 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 00:22:16,290 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 00:22:16,290 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 00:22:16,290 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 00:22:16,291 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 00:22:16,290 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 00:22:16,292 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 00:22:16,291 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 00:22:16,291 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 00:22:16,292 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 00:22:16,291 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 00:22:16,291 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 00:22:16,292 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 00:22:16,292 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 00:22:16,292 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 00:22:16,292 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 00:22:16,292 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 00:22:16,292 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 00:22:16,292 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 00:22:16,292 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 00:26:42,183 - config - run - INFO - App starts running
+
+2020-08-31 00:26:42,183 - config - run - INFO - App starts running
+
+2020-08-31 00:26:42,204 - config - run - INFO - New id not required: True
+
+2020-08-31 00:26:42,204 - config - run - INFO - New id not required: True
+
+2020-08-31 00:26:42,236 - config - run - INFO - Id found
+
+2020-08-31 00:26:42,236 - config - run - INFO - Id found
+
+2020-08-31 00:26:42,237 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:26:42,237 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:26:42,238 - config - run - INFO - Getting user information 
+
+2020-08-31 00:26:42,238 - config - run - INFO - Getting user information 
+
+2020-08-31 00:26:42,274 - config - run - INFO - Get request successfull
+
+2020-08-31 00:26:42,274 - config - run - INFO - Get request successfull
+
+2020-08-31 00:26:42,274 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:26:42,274 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:26:42,325 - config - run - INFO - Request returneddone
+
+2020-08-31 00:26:42,325 - config - run - INFO - Request returneddone
+
+2020-08-31 00:26:44,155 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:26:44,155 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:26:47,358 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 00:26:47,358 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 00:26:50,895 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 00:26:50,895 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 00:26:50,895 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 00:26:50,896 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 00:26:50,895 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 00:26:50,896 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 00:26:50,896 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 00:26:50,896 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 00:26:50,933 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 00:26:50,933 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 00:26:50,933 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 00:26:50,933 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 00:26:53,368 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 00:26:53,368 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 00:26:53,369 - config - osrelated - INFO - Routed to email configuration form
+
+2020-08-31 00:26:53,369 - config - osrelated - INFO - Routed to email configuration form
+
+2020-08-31 00:26:55,240 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 00:26:55,240 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 00:26:55,240 - config - osrelated - INFO - Routed to OS not booting issue
+
+2020-08-31 00:26:55,240 - config - osrelated - INFO - Routed to OS not booting issue
+
+2020-08-31 00:26:55,241 - config - osrelated - INFO - Ticket raised realted to this issue
+
+2020-08-31 00:26:55,241 - config - osrelated - INFO - Ticket raised realted to this issue
+
+2020-08-31 00:40:13,427 - config - run - INFO - App starts running
+
+2020-08-31 00:40:13,449 - config - run - INFO - New id not required: True
+
+2020-08-31 00:40:13,473 - config - run - INFO - Id found
+
+2020-08-31 00:40:13,476 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:40:13,476 - config - run - INFO - Getting user information 
+
+2020-08-31 00:40:13,514 - config - run - INFO - Get request successfull
+
+2020-08-31 00:40:13,515 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:40:13,597 - config - run - INFO - Request returneddone
+
+2020-08-31 00:40:15,109 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:40:17,346 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 00:40:20,815 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 00:40:20,816 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 00:40:20,816 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 00:40:20,817 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 00:40:20,851 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 00:40:20,851 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 00:40:22,904 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 00:40:22,904 - config - osrelated - INFO - Routed to email configuration form
+
+2020-08-31 00:40:25,774 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 00:40:25,775 - config - osrelated - INFO - Routed to add pc issue
+
+2020-08-31 00:40:25,775 - config - osrelated - INFO - Ticket raised realted to this issue
+
+2020-08-31 00:40:31,371 - config - osrelated - INFO - Assigned to expert
+
+2020-08-31 00:40:33,127 - config - osrelated - INFO - Request returned is Assigned to Expert.
+
+2020-08-31 00:46:16,860 - config - run - INFO - App starts running
+
+2020-08-31 00:46:16,889 - config - run - INFO - New id not required: True
+
+2020-08-31 00:46:16,921 - config - run - INFO - Id found
+
+2020-08-31 00:46:16,924 - config - run - INFO - Starting up GUI 
+
+2020-08-31 00:46:16,925 - config - run - INFO - Getting user information 
+
+2020-08-31 00:46:16,967 - config - run - INFO - Get request successfull
+
+2020-08-31 00:46:16,967 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 00:46:16,995 - config - run - INFO - Request returneddone
+
+2020-08-31 00:46:18,611 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 00:46:21,739 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 00:46:25,256 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 00:46:25,256 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 00:46:25,259 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 00:46:25,259 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 00:46:25,337 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 00:46:25,337 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 00:46:27,071 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 00:46:27,071 - config - osrelated - INFO - Routed to email configuration form
+
+2020-08-31 00:46:28,512 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 00:46:28,512 - config - osrelated - INFO - Routed to OS not booting issue
+
+2020-08-31 00:46:28,513 - config - osrelated - INFO - Ticket raised realted to this issue
+
+2020-08-31 00:46:32,635 - config - osrelated - INFO - Assigned to expert
+
+2020-08-31 00:46:33,936 - config - osrelated - INFO - Request returned is Assigned to Expert.
+
+2020-08-31 13:27:31,373 - config - run - INFO - App starts running
+
+2020-08-31 13:27:31,395 - config - run - INFO - New id not required: True
+
+2020-08-31 13:27:31,439 - config - run - INFO - Id found
+
+2020-08-31 13:27:31,441 - config - run - INFO - Starting up GUI 
+
+2020-08-31 13:27:31,441 - config - run - INFO - Getting user information 
+
+2020-08-31 13:27:31,484 - config - run - INFO - Get request successfull
+
+2020-08-31 13:27:31,484 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 13:27:31,529 - config - run - INFO - Request returneddone
+
+2020-08-31 13:27:35,755 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 13:27:37,922 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 13:27:41,067 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 13:27:41,068 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 13:27:41,068 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:27:41,069 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 13:27:41,115 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 13:27:41,115 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 13:27:43,069 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 13:27:43,070 - config - osrelated - INFO - Routed to email configuration form
+
+2020-08-31 13:27:44,346 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 13:27:44,346 - config - osrelated - INFO - Routed to OS not booting issue
+
+2020-08-31 13:27:44,346 - config - osrelated - INFO - Ticket raised realted to this issue
+
+2020-08-31 13:27:49,718 - config - osrelated - INFO - Assigned to expert
+
+2020-08-31 13:27:50,792 - config - osrelated - INFO - Request returned is Assigned to Expert.
+
+2020-08-31 13:36:47,644 - config - run - INFO - App starts running
+
+2020-08-31 13:36:47,664 - config - run - INFO - New id not required: True
+
+2020-08-31 13:36:47,686 - config - run - INFO - Id found
+
+2020-08-31 13:36:47,688 - config - run - INFO - Starting up GUI 
+
+2020-08-31 13:36:47,688 - config - run - INFO - Getting user information 
+
+2020-08-31 13:36:47,724 - config - run - INFO - Get request successfull
+
+2020-08-31 13:36:47,724 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 13:36:47,776 - config - run - INFO - Request returneddone
+
+2020-08-31 13:36:49,174 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 13:36:50,704 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 13:36:54,162 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 13:36:54,162 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 13:36:54,163 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:36:54,163 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 13:36:54,193 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 13:36:54,193 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 13:36:58,306 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 13:36:58,306 - config - osrelated - INFO - Routed to email configuration form
+
+2020-08-31 13:36:59,351 - config - osrelated - INFO - Routed to OS related Issue
+
+2020-08-31 13:36:59,351 - config - osrelated - INFO - Routed to OS not booting issue
+
+2020-08-31 13:36:59,351 - config - osrelated - INFO - Ticket raised realted to this issue
+
+2020-08-31 13:37:02,890 - config - osrelated - INFO - Assigned to expert
+
+2020-08-31 13:37:04,124 - config - osrelated - INFO - Request returned is Assigned to Expert.
+
+2020-08-31 13:42:17,787 - config - run - INFO - App starts running
+
+2020-08-31 13:42:17,811 - config - run - INFO - New id not required: True
+
+2020-08-31 13:42:17,837 - config - run - INFO - Id found
+
+2020-08-31 13:42:17,839 - config - run - INFO - Starting up GUI 
+
+2020-08-31 13:42:17,839 - config - run - INFO - Getting user information 
+
+2020-08-31 13:42:17,876 - config - run - INFO - Get request successfull
+
+2020-08-31 13:42:17,876 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 13:42:17,914 - config - run - INFO - Request returneddone
+
+2020-08-31 13:42:20,328 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 13:42:22,440 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 13:42:25,614 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 13:42:25,615 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 13:42:25,617 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:42:25,617 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 13:42:25,652 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 13:42:25,652 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 13:42:28,722 - config - printerrelated - INFO - Routed to printer related issue
+
+2020-08-31 13:42:28,722 - config - printerrelated - INFO - Routed to printer related menu page
+
+2020-08-31 13:42:30,800 - config - printerrelated - INFO - Routed to printer related issue
+
+2020-08-31 13:42:30,800 - config - printerrelated - INFO - Routed to not proper printer page
+
+2020-08-31 13:42:30,800 - config - printerrelated - INFO - Raising ticket related to this issue
+
+2020-08-31 13:42:34,575 - config - printerrelated - INFO - Request returned is 245
+
+2020-08-31 13:42:34,575 - config - printerrelated - INFO - Assigning to expert
+
+2020-08-31 13:42:35,992 - config - printerrelated - INFO - Request returned is Assigned to Expert.
+
+2020-08-31 13:42:45,756 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:42:45,756 - config - connew - INFO - Routed to software install page
+
+2020-08-31 13:42:47,663 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:42:47,664 - config - connew - INFO - Routed to Java installation page
+
+2020-08-31 13:43:00,386 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:43:00,387 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 13:43:04,303 - config - connew - INFO - Request returned is 246
+
+2020-08-31 13:43:04,303 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 13:43:11,065 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:45:03,855 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:45:03,855 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 13:45:07,300 - config - connew - INFO - Request returned is 247
+
+2020-08-31 13:45:07,300 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 13:45:13,841 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:46:41,862 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:46:41,862 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 13:46:45,408 - config - connew - INFO - Request returned is 248
+
+2020-08-31 13:46:45,408 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 13:46:51,761 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:47:37,514 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 13:47:37,514 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 13:47:41,028 - config - connew - INFO - Request returned is 249
+
+2020-08-31 13:47:41,028 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 13:47:47,399 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:36,351 - config - run - INFO - App starts running
+
+2020-08-31 14:08:36,351 - config - run - INFO - App starts running
+
+2020-08-31 14:08:36,351 - config - run - INFO - App starts running
+
+2020-08-31 14:08:36,376 - config - run - INFO - New id not required: True
+
+2020-08-31 14:08:36,376 - config - run - INFO - New id not required: True
+
+2020-08-31 14:08:36,376 - config - run - INFO - New id not required: True
+
+2020-08-31 14:08:36,409 - config - run - INFO - Id found
+
+2020-08-31 14:08:36,409 - config - run - INFO - Id found
+
+2020-08-31 14:08:36,409 - config - run - INFO - Id found
+
+2020-08-31 14:08:36,411 - config - run - INFO - Starting up GUI 
+
+2020-08-31 14:08:36,411 - config - run - INFO - Starting up GUI 
+
+2020-08-31 14:08:36,411 - config - run - INFO - Starting up GUI 
+
+2020-08-31 14:08:36,411 - config - run - INFO - Getting user information 
+
+2020-08-31 14:08:36,411 - config - run - INFO - Getting user information 
+
+2020-08-31 14:08:36,411 - config - run - INFO - Getting user information 
+
+2020-08-31 14:08:36,447 - config - run - INFO - Get request successfull
+
+2020-08-31 14:08:36,447 - config - run - INFO - Get request successfull
+
+2020-08-31 14:08:36,447 - config - run - INFO - Get request successfull
+
+2020-08-31 14:08:36,447 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 14:08:36,447 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 14:08:36,447 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 14:08:36,499 - config - run - INFO - Request returneddone
+
+2020-08-31 14:08:36,499 - config - run - INFO - Request returneddone
+
+2020-08-31 14:08:36,499 - config - run - INFO - Request returneddone
+
+2020-08-31 14:08:38,164 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 14:08:38,164 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 14:08:38,164 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 14:08:39,957 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 14:08:39,957 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 14:08:39,957 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 14:08:44,125 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 14:08:44,125 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 14:08:44,126 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:44,125 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 14:08:44,126 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:44,126 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 14:08:44,126 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:44,126 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 14:08:44,127 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 14:08:44,126 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 14:08:44,127 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 14:08:44,127 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 14:08:44,164 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 14:08:44,164 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 14:08:44,164 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 14:08:44,165 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 14:08:44,165 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 14:08:44,165 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 14:08:47,952 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:47,952 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:47,952 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:47,952 - config - connew - INFO - Routed to software install page
+
+2020-08-31 14:08:47,952 - config - connew - INFO - Routed to software install page
+
+2020-08-31 14:08:47,952 - config - connew - INFO - Routed to software install page
+
+2020-08-31 14:08:49,943 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:49,943 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:49,943 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:49,943 - config - connew - INFO - Routed to Java installation page
+
+2020-08-31 14:08:49,943 - config - connew - INFO - Routed to Java installation page
+
+2020-08-31 14:08:49,943 - config - connew - INFO - Routed to Java installation page
+
+2020-08-31 14:08:51,131 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:51,131 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:51,131 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:08:51,131 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 14:08:51,131 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 14:08:51,131 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 14:08:54,798 - config - connew - INFO - Request returned is 250
+
+2020-08-31 14:08:54,798 - config - connew - INFO - Request returned is 250
+
+2020-08-31 14:08:54,798 - config - connew - INFO - Request returned is 250
+
+2020-08-31 14:08:54,799 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 14:08:54,799 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 14:08:54,799 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 14:09:01,331 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:09:01,331 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:09:01,331 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:12:16,517 - config - run - INFO - App starts running
+
+2020-08-31 14:12:16,538 - config - run - INFO - New id not required: True
+
+2020-08-31 14:12:16,592 - config - run - INFO - Id found
+
+2020-08-31 14:12:16,595 - config - run - INFO - Starting up GUI 
+
+2020-08-31 14:12:16,595 - config - run - INFO - Getting user information 
+
+2020-08-31 14:12:16,634 - config - run - INFO - Get request successfull
+
+2020-08-31 14:12:16,635 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 14:12:16,664 - config - run - INFO - Request returneddone
+
+2020-08-31 14:12:18,083 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 14:12:20,084 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 14:12:23,432 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 14:12:23,433 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 14:12:23,436 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:12:23,436 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 14:12:23,504 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 14:12:23,504 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 14:12:25,096 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:12:25,096 - config - connew - INFO - Routed to software install page
+
+2020-08-31 14:12:26,396 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:12:26,397 - config - connew - INFO - Routed to Java installation page
+
+2020-08-31 14:12:27,639 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:12:27,639 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 14:12:31,208 - config - connew - INFO - Request returned is 251
+
+2020-08-31 14:12:31,208 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 14:12:37,609 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:14:35,891 - config - run - INFO - App starts running
+
+2020-08-31 14:14:35,913 - config - run - INFO - New id not required: True
+
+2020-08-31 14:14:35,935 - config - run - INFO - Id found
+
+2020-08-31 14:14:35,937 - config - run - INFO - Starting up GUI 
+
+2020-08-31 14:14:35,937 - config - run - INFO - Getting user information 
+
+2020-08-31 14:14:35,974 - config - run - INFO - Get request successfull
+
+2020-08-31 14:14:35,975 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 14:14:36,022 - config - run - INFO - Request returneddone
+
+2020-08-31 14:14:37,456 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 14:14:39,494 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 14:14:42,303 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 14:14:42,303 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:14:42,303 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 14:14:42,303 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 14:14:42,335 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 14:14:42,335 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 14:14:44,092 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:14:44,092 - config - connew - INFO - Routed to software install page
+
+2020-08-31 14:14:47,953 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:14:47,953 - config - connew - INFO - Routed to Java installation page
+
+2020-08-31 14:14:49,981 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:14:49,981 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 14:14:54,027 - config - connew - INFO - Request returned is 252
+
+2020-08-31 14:14:54,027 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 14:15:00,329 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:16:22,741 - config - run - INFO - App starts running
+
+2020-08-31 14:16:22,768 - config - run - INFO - New id not required: True
+
+2020-08-31 14:16:22,795 - config - run - INFO - Id found
+
+2020-08-31 14:16:22,797 - config - run - INFO - Starting up GUI 
+
+2020-08-31 14:16:22,797 - config - run - INFO - Getting user information 
+
+2020-08-31 14:16:22,843 - config - run - INFO - Get request successfull
+
+2020-08-31 14:16:22,843 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 14:16:22,873 - config - run - INFO - Request returneddone
+
+2020-08-31 14:16:24,294 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 14:16:25,991 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 14:16:29,273 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 14:16:29,274 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:16:29,274 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 14:16:29,274 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 14:16:29,343 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 14:16:29,343 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 14:16:32,318 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:16:32,318 - config - connew - INFO - Routed to software install page
+
+2020-08-31 14:16:33,683 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:16:33,684 - config - connew - INFO - Routed to Java installation page
+
+2020-08-31 14:16:35,153 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:16:35,153 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 14:16:38,501 - config - connew - INFO - Request returned is 253
+
+2020-08-31 14:16:38,501 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 14:16:44,802 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:41:53,289 - config - run - INFO - App starts running
+
+2020-08-31 14:41:53,344 - config - run - INFO - New id not required: True
+
+2020-08-31 14:41:53,424 - config - run - INFO - Id found
+
+2020-08-31 14:41:53,429 - config - run - INFO - Starting up GUI 
+
+2020-08-31 14:41:53,430 - config - run - INFO - Getting user information 
+
+2020-08-31 14:41:53,578 - config - run - INFO - Get request successfull
+
+2020-08-31 14:41:53,578 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 14:41:53,661 - config - run - INFO - Request returneddone
+
+2020-08-31 14:41:56,471 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 14:41:59,957 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 14:42:04,134 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 14:42:04,136 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 14:42:04,139 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:42:04,144 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 14:42:04,254 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 14:42:04,255 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 14:42:06,772 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:42:06,773 - config - connew - INFO - Routed to software install page
+
+2020-08-31 14:42:08,492 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:42:08,493 - config - connew - INFO - Routed to Java installation page
+
+2020-08-31 14:42:09,825 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:42:09,826 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 14:42:16,721 - config - connew - INFO - Request returned is 254
+
+2020-08-31 14:42:16,722 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 14:42:23,200 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:43:50,295 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:43:50,297 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 14:43:56,234 - config - connew - INFO - Request returned is 255
+
+2020-08-31 14:43:56,235 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 14:47:58,419 - config - run - INFO - App starts running
+
+2020-08-31 14:47:58,475 - config - run - INFO - New id not required: True
+
+2020-08-31 14:47:58,552 - config - run - INFO - Id found
+
+2020-08-31 14:47:58,557 - config - run - INFO - Starting up GUI 
+
+2020-08-31 14:47:58,557 - config - run - INFO - Getting user information 
+
+2020-08-31 14:47:58,684 - config - run - INFO - Get request successfull
+
+2020-08-31 14:47:58,684 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 14:47:58,836 - config - run - INFO - Request returneddone
+
+2020-08-31 14:48:01,312 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 14:48:03,699 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 14:48:07,152 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 14:48:07,153 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 14:48:07,157 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:48:07,163 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 14:48:07,278 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 14:48:07,278 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 14:48:08,909 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:48:08,909 - config - connew - INFO - Routed to software install page
+
+2020-08-31 14:48:12,473 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:48:12,474 - config - connew - INFO - Routed to Java installation page
+
+2020-08-31 14:48:15,057 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:48:15,057 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 14:48:21,599 - config - connew - INFO - Request returned is 256
+
+2020-08-31 14:48:21,599 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 14:49:56,136 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:52:26,371 - config - feedback - INFO - Feedback route called 
+
+2020-08-31 14:52:26,592 - config - feedback - INFO - Feedback request returned feedback stored!
+
+2020-08-31 14:55:14,879 - config - run - INFO - App starts running
+
+2020-08-31 14:55:14,955 - config - run - INFO - New id not required: True
+
+2020-08-31 14:55:15,054 - config - run - INFO - Id found
+
+2020-08-31 14:55:15,063 - config - run - INFO - Starting up GUI 
+
+2020-08-31 14:55:15,063 - config - run - INFO - Getting user information 
+
+2020-08-31 14:55:15,271 - config - run - INFO - Get request successfull
+
+2020-08-31 14:55:15,272 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 14:55:15,368 - config - run - INFO - Request returneddone
+
+2020-08-31 14:55:17,777 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 14:56:02,493 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 14:56:06,738 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 14:56:06,739 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:56:06,740 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 14:56:06,741 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 14:56:06,818 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 14:56:06,819 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 14:56:09,385 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:56:09,386 - config - connew - INFO - Routed to software install page
+
+2020-08-31 14:56:11,142 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:56:11,143 - config - connew - INFO - Routed to Java installation page
+
+2020-08-31 14:56:12,428 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 14:56:12,429 - config - connew - INFO - Routed to java32 installation page
+
+2020-08-31 14:56:18,309 - config - connew - INFO - Request returned is 257
+
+2020-08-31 14:56:18,310 - config - connew - INFO - Contacting server for adobe installation
+
+2020-08-31 14:58:06,912 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 15:00:09,547 - config - feedback - INFO - Feedback route called 
+
+2020-08-31 15:00:09,652 - config - feedback - INFO - Feedback request returned feedback stored!
+
+2020-08-31 15:02:17,884 - config - run - INFO - App starts running
+
+2020-08-31 15:02:17,957 - config - run - INFO - New id not required: True
+
+2020-08-31 15:02:18,059 - config - run - INFO - Id found
+
+2020-08-31 15:02:18,065 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:02:18,065 - config - run - INFO - Getting user information 
+
+2020-08-31 15:02:18,200 - config - run - INFO - Get request successfull
+
+2020-08-31 15:02:18,200 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:02:18,303 - config - run - INFO - Request returneddone
+
+2020-08-31 15:02:20,616 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:03:02,807 - config - run - INFO - App starts running
+
+2020-08-31 15:03:02,862 - config - run - INFO - New id not required: True
+
+2020-08-31 15:03:02,922 - config - run - INFO - Id found
+
+2020-08-31 15:03:02,926 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:03:02,927 - config - run - INFO - Getting user information 
+
+2020-08-31 15:03:03,029 - config - run - INFO - Get request successfull
+
+2020-08-31 15:03:03,030 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:03:03,114 - config - run - INFO - Request returneddone
+
+2020-08-31 15:03:05,089 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:04:06,809 - config - run - INFO - App starts running
+
+2020-08-31 15:04:06,864 - config - run - INFO - New id not required: True
+
+2020-08-31 15:04:06,926 - config - run - INFO - Id found
+
+2020-08-31 15:04:06,932 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:04:06,933 - config - run - INFO - Getting user information 
+
+2020-08-31 15:04:07,040 - config - run - INFO - Get request successfull
+
+2020-08-31 15:04:07,040 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:04:07,123 - config - run - INFO - Request returneddone
+
+2020-08-31 15:04:09,211 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:06:50,532 - config - run - INFO - App starts running
+
+2020-08-31 15:06:50,599 - config - run - INFO - New id not required: True
+
+2020-08-31 15:06:50,663 - config - run - INFO - Id found
+
+2020-08-31 15:06:50,668 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:06:50,668 - config - run - INFO - Getting user information 
+
+2020-08-31 15:06:50,780 - config - run - INFO - Get request successfull
+
+2020-08-31 15:06:50,781 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:06:50,860 - config - run - INFO - Request returneddone
+
+2020-08-31 15:06:53,086 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:08:46,103 - config - run - INFO - App starts running
+
+2020-08-31 15:08:46,160 - config - run - INFO - New id not required: True
+
+2020-08-31 15:08:46,221 - config - run - INFO - Id found
+
+2020-08-31 15:08:46,226 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:08:46,226 - config - run - INFO - Getting user information 
+
+2020-08-31 15:08:46,333 - config - run - INFO - Get request successfull
+
+2020-08-31 15:08:46,334 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:08:46,416 - config - run - INFO - Request returneddone
+
+2020-08-31 15:08:48,401 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:09:34,688 - config - run - INFO - App starts running
+
+2020-08-31 15:09:34,755 - config - run - INFO - New id not required: True
+
+2020-08-31 15:09:34,803 - config - run - INFO - Id found
+
+2020-08-31 15:09:34,807 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:09:34,807 - config - run - INFO - Getting user information 
+
+2020-08-31 15:09:34,894 - config - run - INFO - Get request successfull
+
+2020-08-31 15:09:34,895 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:09:34,972 - config - run - INFO - Request returneddone
+
+2020-08-31 15:09:36,929 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:12:59,398 - config - run - INFO - App starts running
+
+2020-08-31 15:12:59,473 - config - run - INFO - New id not required: True
+
+2020-08-31 15:12:59,553 - config - run - INFO - Id found
+
+2020-08-31 15:12:59,559 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:12:59,559 - config - run - INFO - Getting user information 
+
+2020-08-31 15:12:59,703 - config - run - INFO - Get request successfull
+
+2020-08-31 15:12:59,703 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:12:59,814 - config - run - INFO - Request returneddone
+
+2020-08-31 15:13:01,883 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:13:05,575 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 15:13:20,980 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 15:13:20,981 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 15:13:20,995 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 15:13:20,997 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 15:13:21,133 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 15:13:21,133 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 15:14:20,672 - config - run - INFO - App starts running
+
+2020-08-31 15:14:20,733 - config - run - INFO - New id not required: True
+
+2020-08-31 15:14:20,793 - config - run - INFO - Id found
+
+2020-08-31 15:14:20,797 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:14:20,797 - config - run - INFO - Getting user information 
+
+2020-08-31 15:14:20,912 - config - run - INFO - Get request successfull
+
+2020-08-31 15:14:20,912 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:14:20,991 - config - run - INFO - Request returneddone
+
+2020-08-31 15:14:22,918 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:14:52,413 - config - run - INFO - App starts running
+
+2020-08-31 15:14:52,473 - config - run - INFO - New id not required: True
+
+2020-08-31 15:14:52,533 - config - run - INFO - Id found
+
+2020-08-31 15:14:52,537 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:14:52,537 - config - run - INFO - Getting user information 
+
+2020-08-31 15:14:52,643 - config - run - INFO - Get request successfull
+
+2020-08-31 15:14:52,643 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:14:52,748 - config - run - INFO - Request returneddone
+
+2020-08-31 15:14:54,787 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:14:58,779 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 15:15:29,616 - config - run - INFO - App starts running
+
+2020-08-31 15:15:29,675 - config - run - INFO - New id not required: True
+
+2020-08-31 15:15:29,736 - config - run - INFO - Id found
+
+2020-08-31 15:15:29,741 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:15:29,741 - config - run - INFO - Getting user information 
+
+2020-08-31 15:15:29,869 - config - run - INFO - Get request successfull
+
+2020-08-31 15:15:29,869 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:15:29,951 - config - run - INFO - Request returneddone
+
+2020-08-31 15:15:32,020 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:15:36,455 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 15:15:43,702 - config - emailadd - INFO - Email add route called 
+
+2020-08-31 15:15:43,703 - config - emailadd - INFO - Email routed on server hitting
+
+2020-08-31 15:15:43,705 - config - connew - INFO - Routed to confirm function
+
+2020-08-31 15:15:43,711 - config - connew - INFO - Routed to menu of available services
+
+2020-08-31 15:15:43,853 - config - emailadd - INFO - Request returned Email Updated
+
+2020-08-31 15:15:43,853 - config - emailadd - INFO - Email added successfully 
+
+2020-08-31 15:16:17,240 - config - run - INFO - App starts running
+
+2020-08-31 15:16:17,297 - config - run - INFO - New id not required: True
+
+2020-08-31 15:16:17,363 - config - run - INFO - Id found
+
+2020-08-31 15:16:17,368 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:16:17,368 - config - run - INFO - Getting user information 
+
+2020-08-31 15:16:17,494 - config - run - INFO - Get request successfull
+
+2020-08-31 15:16:17,494 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:16:17,575 - config - run - INFO - Request returneddone
+
+2020-08-31 15:16:18,569 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:16:50,751 - config - run - INFO - App starts running
+
+2020-08-31 15:16:50,806 - config - run - INFO - New id not required: True
+
+2020-08-31 15:16:50,866 - config - run - INFO - Id found
+
+2020-08-31 15:16:50,871 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:16:50,871 - config - run - INFO - Getting user information 
+
+2020-08-31 15:16:50,976 - config - run - INFO - Get request successfull
+
+2020-08-31 15:16:50,977 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:16:51,063 - config - run - INFO - Request returneddone
+
+2020-08-31 15:16:51,846 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:17:24,050 - config - run - INFO - App starts running
+
+2020-08-31 15:17:24,105 - config - run - INFO - New id not required: True
+
+2020-08-31 15:17:24,164 - config - run - INFO - Id found
+
+2020-08-31 15:17:24,168 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:17:24,170 - config - run - INFO - Getting user information 
+
+2020-08-31 15:17:24,281 - config - run - INFO - Get request successfull
+
+2020-08-31 15:17:24,282 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:17:24,375 - config - run - INFO - Request returneddone
+
+2020-08-31 15:17:25,231 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:17:39,011 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 15:19:47,945 - config - run - INFO - App starts running
+
+2020-08-31 15:19:47,997 - config - run - INFO - New id not required: True
+
+2020-08-31 15:19:48,060 - config - run - INFO - Id found
+
+2020-08-31 15:19:48,066 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:19:48,066 - config - run - INFO - Getting user information 
+
+2020-08-31 15:19:48,168 - config - run - INFO - Get request successfull
+
+2020-08-31 15:19:48,169 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:19:48,242 - config - run - INFO - Request returneddone
+
+2020-08-31 15:19:50,187 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:19:52,441 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 15:20:20,974 - config - run - INFO - App starts running
+
+2020-08-31 15:20:21,050 - config - run - INFO - New id not required: True
+
+2020-08-31 15:20:21,108 - config - run - INFO - Id found
+
+2020-08-31 15:20:21,113 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:20:21,113 - config - run - INFO - Getting user information 
+
+2020-08-31 15:20:21,225 - config - run - INFO - Get request successfull
+
+2020-08-31 15:20:21,226 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:20:21,328 - config - run - INFO - Request returneddone
+
+2020-08-31 15:20:23,251 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:20:26,594 - config - newreq - INFO - Routed to new request function
+
+2020-08-31 15:21:32,191 - config - run - INFO - App starts running
+
+2020-08-31 15:21:32,246 - config - run - INFO - New id not required: True
+
+2020-08-31 15:21:32,306 - config - run - INFO - Id found
+
+2020-08-31 15:21:32,311 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:21:32,311 - config - run - INFO - Getting user information 
+
+2020-08-31 15:21:32,419 - config - run - INFO - Get request successfull
+
+2020-08-31 15:21:32,419 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:21:32,498 - config - run - INFO - Request returneddone
+
+2020-08-31 15:21:34,452 - config - login - INFO - Setting up screen for GUI
+
+2020-08-31 15:22:29,889 - config - run - INFO - App starts running
+
+2020-08-31 15:22:29,943 - config - run - INFO - New id not required: True
+
+2020-08-31 15:22:30,003 - config - run - INFO - Id found
+
+2020-08-31 15:22:30,009 - config - run - INFO - Starting up GUI 
+
+2020-08-31 15:22:30,009 - config - run - INFO - Getting user information 
+
+2020-08-31 15:22:30,118 - config - run - INFO - Get request successfull
+
+2020-08-31 15:22:30,118 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-08-31 15:22:30,199 - config - run - INFO - Request returneddone
+
+2020-09-01 13:07:58,428 - config - login - INFO - Setting up screen for GUI
+
+2020-09-01 13:08:03,019 - config - knowticket - INFO - Routed to know ticket page
+
+2020-09-01 13:08:03,019 - config - knowticket - INFO - Routed to Details page
+
+2020-09-01 13:08:04,434 - config - knowticket - INFO - Routed to know ticket page
+
+2020-09-01 13:08:04,435 - config - knowticket - INFO - Requesting server database for all recent tickets
+
+2020-09-01 13:08:10,202 - config - knowticket - INFO - Routed to know ticket page
+
+2020-09-01 13:08:10,202 - config - knowticket - INFO - Routed to proceed route
+
+2020-09-01 13:08:10,289 - config - knowticket - INFO - Request returned is You had java32 issue and status is Resolved
+
+2020-09-02 21:55:08,305 - config - run - INFO - App starts running
+
+2020-09-02 21:55:08,331 - config - run - INFO - New id not required: True
+
+2020-09-02 21:55:08,383 - config - run - INFO - Id found
+
+2020-09-02 21:55:08,386 - config - run - INFO - Starting up GUI 
+
+2020-09-02 21:55:08,386 - config - run - INFO - Getting user information 
+
+2020-09-02 21:55:08,387 - config - run - INFO - Get request successfull
+
+2020-09-02 21:55:08,387 - config - run - INFO - Setting up inserver and outserver for user
+
+2020-09-02 21:55:08,438 - config - run - INFO - Request returneddone
+

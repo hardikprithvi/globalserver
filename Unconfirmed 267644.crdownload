@@ -1,0 +1,7 @@
+[DEFAULT]
+company name = AXY Company
+company contact = 1234567890
+company website = https://www.prithvi.ai
+sql link = mysql+pymysql://dev:Dev@1234@@127.0.0.1/manage_engine?host=localhost
+name manage = Chandan Makkar
+id manage = 7

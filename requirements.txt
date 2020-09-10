@@ -1,0 +1,9 @@
+numpy==1.17.1
+flask==1.0.2
+selenium==3.141.0
+pandas==0.25.1
+pywinauto==0.6.8
+PyAutoGUI==0.9.48
+scikit-learn==0.20.4
+spacy==2.2.3
+xgboost==0.90

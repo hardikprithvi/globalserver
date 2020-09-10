@@ -1,0 +1,7 @@
+1. Create 3 Database :
+                    1.CREATE DATABASE manage_engine;
+                    
+                    2.CREATE DATABASE symphony;
+                    
+                    3.CREATE DATABASE non_itsm;
+
